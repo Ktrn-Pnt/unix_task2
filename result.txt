@@ -1,0 +1,13 @@
+PID = 50308, success locks: 25
+PID = 50309, success locks: 40
+PID = 50310, success locks: 27
+PID = 50311, success locks: 33
+PID = 50313, success locks: 27
+PID = 50314, success locks: 25
+PID = 50315, success locks: 28
+PID = 50316, success locks: 37
+PID = 50317, success locks: 31
+PID = 50312, success locks: 26
+All processes have completed successful
+Variance: 1.5209999999999988
+Lock statistics are approximately the same
